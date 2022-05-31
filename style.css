@@ -1,0 +1,11 @@
+body  ul li {
+    text-decoration: underline;
+    font-size: medium;
+}
+
+ol li{
+    text-decoration: underline;
+    text-decoration-style: dashed;
+    font-size: medium;
+}
+
